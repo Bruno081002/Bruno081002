@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there i'm Bruno
+
+<p align="center">
+  <img src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" alt="Hand waving">
+</p>
+
 
 <!--
 **Bruno081002/Bruno081002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
